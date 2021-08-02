@@ -1,0 +1,3 @@
+{
+    "employees":[{"age":16,"name":"Enes Can","position":"Patron","salary":7500,"surname":"Bozkurt"},{"age":15,"name":"Kerim Yigit","position":"Temizlik Gorevlisi","salary":3000,"surname":"Uyar"},{"age":24,"name":"Tahir Gokberk","position":"Cayci","salary":3000,"surname":"Kumral"},{"age":34,"name":"Fatih","position":"Danisman","salary":6500,"surname":"Yilmaz"}]
+}
